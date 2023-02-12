@@ -9,3 +9,6 @@ A Testing Project for estimating the price of a flight. Data coming from kaggle 
 
 ###### What the train-test-split says...
 <img width="1110" alt="df" src="https://user-images.githubusercontent.com/66774630/218266930-b2871cec-91a1-44cc-9ffd-1a3f4e5d69aa.png">
+
+###### After changing model to RandomForestRegressor we got 3€ less error... :D
+<img width="1109" alt="img" src="https://user-images.githubusercontent.com/66774630/218306776-767bbec9-083e-4410-937b-202932e80b1a.png">
